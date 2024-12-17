@@ -23,4 +23,10 @@ This project automates the process of cloning a GitHub repository and executing 
 - To test the repository's functionality, ensure that the test.py script is included in the repository you are cloning.
 - Remember to update your file path, author information, etc in the main function of the above two files.
 
-
+## structure
+``` bash
+auto_debug_agent/
+├── test.py
+├── clone_code.py
+├── auto_install_with_gpt.py
+└── config.json
